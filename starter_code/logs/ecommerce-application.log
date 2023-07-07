@@ -1,0 +1,28 @@
+2023-07-08T02:04:29.619+0700 INFO Starting SareetaApplication on DungHNA with PID 80626 (started by dunghna.jits in /Users/dunghna.jits/DungHNA/Udacity/Project 4/eCommerce-Application/starter_code)
+2023-07-08T02:04:29.622+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-08T02:04:29.622+0700 INFO No active profile set, falling back to default profiles: default
+2023-07-08T02:04:31.024+0700 INFO Started SareetaApplication in 1.512 seconds (JVM running for 1.874)
+2023-07-08T02:04:56.763+0700 INFO Starting SareetaApplication on DungHNA with PID 80656 (started by dunghna.jits in /Users/dunghna.jits/DungHNA/Udacity/Project 4/eCommerce-Application/starter_code)
+2023-07-08T02:04:56.767+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-08T02:04:56.767+0700 INFO No active profile set, falling back to default profiles: default
+2023-07-08T02:04:58.007+0700 INFO Started SareetaApplication in 1.339 seconds (JVM running for 1.703)
+2023-07-08T02:08:27.411+0700 INFO Starting SareetaApplication on DungHNA with PID 80728 (started by dunghna.jits in /Users/dunghna.jits/DungHNA/Udacity/Project 4/eCommerce-Application/starter_code)
+2023-07-08T02:08:27.414+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-08T02:08:27.414+0700 INFO No active profile set, falling back to default profiles: default
+2023-07-08T02:08:28.697+0700 INFO Started SareetaApplication in 1.381 seconds (JVM running for 1.743)
+2023-07-08T02:09:45.907+0700 ERROR Can not create user dunghna.
+2023-07-08T02:09:51.283+0700 INFO Create user success with username dunghna.
+2023-07-08T02:12:12.540+0700 DEBUG Request is to process authentication
+2023-07-08T02:12:15.912+0700 DEBUG Request is to process authentication
+2023-07-08T02:12:16.793+0700 DEBUG Request is to process authentication
+2023-07-08T02:12:17.439+0700 DEBUG Request is to process authentication
+2023-07-08T02:13:14.278+0700 INFO Starting SareetaApplication on DungHNA with PID 80904 (started by dunghna.jits in /Users/dunghna.jits/DungHNA/Udacity/Project 4/eCommerce-Application/starter_code)
+2023-07-08T02:13:14.283+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-08T02:13:14.284+0700 INFO No active profile set, falling back to default profiles: default
+2023-07-08T02:13:15.496+0700 INFO Started SareetaApplication in 1.386 seconds (JVM running for 1.727)
+2023-07-08T02:13:20.125+0700 DEBUG Request is to process authentication
+2023-07-08T02:13:21.369+0700 DEBUG Request is to process authentication
+2023-07-08T02:13:21.944+0700 DEBUG Request is to process authentication
+2023-07-08T02:13:27.309+0700 ERROR Can not create user dunghna.
+2023-07-08T02:13:31.895+0700 INFO Create user success with username dunghna.
+2023-07-08T02:14:11.055+0700 DEBUG Request is to process authentication
